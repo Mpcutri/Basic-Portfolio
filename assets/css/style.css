@@ -180,7 +180,9 @@ h2 {
     padding-top: 40px;
     background-color: #666666;
     height: 60px;
-    color: white;
+    color: #cccccc;
+    font-family: 'arial';
+    font-size: 12px;
 }
 
 .clearfix:after {

@@ -128,13 +128,18 @@ h1 {
 }
 
 #github {
-	margin-left: 14%;
+	margin-left: 12.5%;
 }
 
 #stackover {
 	float: right;
-	margin-right: 10%;
-
+    margin-right: 10%;
+    border: solid;
+    border-radius: 5px;
+    padding: 0px;
+    height: 45px;
+    width: 45px;
+    border-color: #f59506;
 }
 
 #portfolio {

@@ -55,6 +55,8 @@ h2 {
     margin-left: 0px;
     position: absolute;
     z-index: 2;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 #about {
@@ -69,6 +71,7 @@ h2 {
 	border: solid;
 	border-color: #cccccc;
 	border-width: 1.5px;
+	border-radius: 10px;
 }
 
 #aboutmetext {
@@ -98,6 +101,7 @@ h2 {
 	border: solid;
 	border-color: #cccccc;
 	border-width: 1.5px;
+	border-radius: 10px;
 }
 
 #connecttext {
@@ -145,6 +149,7 @@ h2 {
 	margin-left: 5%;
 	margin-top: 5px;
 	margin-right: 5%;
+	border-radius: 10px;
 }
 
 .stripe1 {

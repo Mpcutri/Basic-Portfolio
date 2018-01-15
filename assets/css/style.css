@@ -22,6 +22,13 @@ h1 {
 	font-family: 'Ubuntu';
 }
 
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 30px;
+    margin-top: -25px;
+}
+
 .navmargin {
 /*	margin-left: 10%;
 	margin-right: 10%;*/
@@ -55,6 +62,13 @@ h1 {
 	margin-bottom:30px;
 }
 
+.portfoliotiles {
+	list-style-type: none;
+	display: inline-flex;
+	height: 100px
+	width: 100px;
+}
+
 #yourname {
 	background-color: #4aaaa5;
     padding: 12px 35px 12px 35px;
@@ -83,6 +97,27 @@ h1 {
 }
 
 #aboutmetext {
+	color: #4aaaa5;
+	font-family: 'Ubuntu';
+	border-bottom: solid;
+	border-color: #cccccc;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-bottom: 20px;
+}
+
+#portfolio2 {
+	background-color: white;
+	width: 650px;
+	height: 650px;
+	float: left;
+	border: solid;
+	border-color: #cccccc;
+	border-width: 1.5px;
+	border-radius: 5px;
+}
+
+#portfoliotext {
 	color: #4aaaa5;
 	font-family: 'Ubuntu';
 	border-bottom: solid;

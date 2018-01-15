@@ -27,6 +27,7 @@ table {
 	margin-right: auto;
 	border-spacing: 30px;
     margin-top: -25px;
+    font-family: 'Ubuntu';
 }
 
 .navmargin {
@@ -155,6 +156,19 @@ table {
 	margin-left: 10%;
 	margin-right: 10%;
 	padding-bottom: 20px;
+}
+
+#messagebox {
+	width: 184px;
+}
+
+#submit {
+	margin-right: 15px;
+	float: right;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Ubuntu';
+	padding: 5px 10px 5px 10px;
 }
 
 #linkedin {
